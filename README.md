@@ -1,4 +1,4 @@
-# 🚀 Asif Alam (Looperrrrrr) - JavaScript Beginner Exercises Solutions
+# 🚀 Asif Alam - JavaScript Beginner Exercises Solutions
 
 # JavaScript exercises tutorial at 4Geeks Academy
 
